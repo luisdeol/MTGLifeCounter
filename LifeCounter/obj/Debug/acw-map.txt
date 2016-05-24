@@ -1,0 +1,8 @@
+LifeCounter.MainActivity, LifeCounter;md54b0cb937df22852aa4248f44ddcbc1f3.MainActivity
+LifeCounter.MainActivity, LifeCounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b0cb937df22852aa4248f44ddcbc1f3.MainActivity
+LifeCounter.MainActivity;md54b0cb937df22852aa4248f44ddcbc1f3.MainActivity
+lifecounter.MainActivity;md54b0cb937df22852aa4248f44ddcbc1f3.MainActivity
+LifeCounter.RollTheDice, LifeCounter;md54b0cb937df22852aa4248f44ddcbc1f3.RollTheDice
+LifeCounter.RollTheDice, LifeCounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b0cb937df22852aa4248f44ddcbc1f3.RollTheDice
+LifeCounter.RollTheDice;md54b0cb937df22852aa4248f44ddcbc1f3.RollTheDice
+lifecounter.RollTheDice;md54b0cb937df22852aa4248f44ddcbc1f3.RollTheDice

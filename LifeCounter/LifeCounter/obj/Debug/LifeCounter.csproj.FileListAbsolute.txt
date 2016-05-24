@@ -1,0 +1,15 @@
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\LifeCounter.csprojResolveAssemblyReference.cache
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\bin\Debug\LifeCounter.dll
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\bin\Debug\LifeCounter.pdb
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\bin\Debug\LifeCounter.LifeCounter.apk
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\bin\Debug\LifeCounter.LifeCounter-Signed.apk
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\LifeCounter.dll
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\LifeCounter.pdb
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\android\bin\LifeCounter.LifeCounter.apk
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\res\layout\main.xml
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\res\values\strings.xml
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\res\drawable\icon.png
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\R.cs.flag
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\uploadflags.txt
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\obj\Debug\LifeCounter.dll.mdb
+C:\Users\luisdeolpy\Documents\Visual Studio 2015\Projects\Xamarin\LifeCounter\LifeCounter\bin\Debug\LifeCounter.dll.mdb

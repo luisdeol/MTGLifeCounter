@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:id="@+id/linear_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1">
+        <Button
+            android:id="@+id/b_reset"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:text="@string/Reset"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:layout_weight="1" />
+        <Button
+            android:id="@+id/b_roll"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:text="@string/RollTheDice"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:layout_weight="1" />
+    </LinearLayout>
+    <TextView
+        android:text="20"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/tv_player1"
+        android:gravity="center"
+        android:textSize="50dp" />
+    <LinearLayout
+        android:id="@+id/linear_layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1">
+        <Button
+            android:text="+1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_plus1"
+            android:layout_marginRight="0.0dp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+        <Button
+            android:text="+5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_plus51"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear_layout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1">
+        <Button
+            android:text="-1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_minus1"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+        <Button
+            android:text="-5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_minus51"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+    </LinearLayout>
+    <TextView
+        android:text="20"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/tv_player2"
+        android:gravity="center"
+        android:textSize="50dp" />
+    <LinearLayout
+        android:id="@+id/linear_layout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1">
+        <Button
+            android:text="+1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_plus2"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+        <Button
+            android:text="+5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_plus52"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear_layout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight="1">
+        <Button
+            android:text="-1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_minus2"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+        <Button
+            android:text="-5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/b_minus52"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:textSize="50dp" />
+    </LinearLayout>
+</LinearLayout>
